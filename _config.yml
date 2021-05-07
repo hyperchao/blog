@@ -14,7 +14,7 @@ minima_reboot:
   date_format_short: "%m-%d"
 
 header_pages:
-- about.md
+- tags.md
 - posts.md
 - github.md
 
