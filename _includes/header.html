@@ -17,7 +17,9 @@
               <a class="text-dark ml-3 ml-md-0 p-2 d-block d-md-inline-block" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
             {% endif %}
           {% endfor %}
+          <span><input placeholder="搜索" type="text" id="search-input"></span>
         </div>
+
       </nav>
     {% endif %}
   </div>
