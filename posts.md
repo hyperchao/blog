@@ -1,6 +1,6 @@
 ---
 layout: allposts
-title: Posts
-description: Blog posts
-permalink: /posts/
+title: 归档
+description: Blog archive
+permalink: /archive/
 ---
