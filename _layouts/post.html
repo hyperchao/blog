@@ -37,6 +37,15 @@ layout: default
     {{ content }}
   </div>
 
+  <hr>
+  <script src="https://utteranc.es/client.js"
+    repo="hyperchao/blog"
+    issue-term="pathname"
+    theme="github-light"
+    crossorigin="anonymous"
+    async>
+  </script>
+
   {% if site.disqus.shortname %}
     {% include disqus_comments.html %}
   {% endif %}
